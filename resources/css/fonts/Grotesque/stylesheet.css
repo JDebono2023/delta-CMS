@@ -1,0 +1,13 @@
+/* http://www.onlinewebfonts.com -> Classic Grotesque W01 Cn Md */
+@font-face {
+    font-family: "Grotesque";
+    src: url("e1d89cd501aedab44ec9acf42ad7eee2.eot");
+    src: url("e1d89cd501aedab44ec9acf42ad7eee2.eot?#iefix")format("embedded-opentype"),
+        url("e1d89cd501aedab44ec9acf42ad7eee2.woff")format("woff"),
+        url("e1d89cd501aedab44ec9acf42ad7eee2.woff2")format("woff2"),
+        url("e1d89cd501aedab44ec9acf42ad7eee2.ttf")format("truetype"),
+        url("e1d89cd501aedab44ec9acf42ad7eee2.svg#Classic Grotesque W01 Cn Md")format("svg");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

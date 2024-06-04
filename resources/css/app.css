@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+
+    h1,
+    h2,
+    h3,
+    th {
+        @apply font-body;
+    }
+
+
+    @font-face {
+        font-family: DIN;
+        src: url('./fonts/DINNextSlab/DINNextSlabPro-Regular.ttf');
+        /* src: url('DINNextSlabPro-Regular.ttf'); */
+    }
+
+
+
+    @font-face {
+        font-family: Grotesque;
+        src: url('./fonts/Grotesque/e1d89cd501aedab44ec9acf42ad7eee2.ttf');
+        /* src: url('e1d89cd501aedab44ec9acf42ad7eee2.ttf'); */
+    }
+
+
+    @font-face {
+        font-family: Lato;
+        src: url('/resources/css/fonts/Lato/Lato-Regular.ttf');
+        /* src: url('Lato-Regular.ttf'); */
+    }
+
+
+}
